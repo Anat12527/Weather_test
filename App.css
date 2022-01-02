@@ -1,0 +1,8 @@
+.bg-container:{
+  background-image:url(./assets/Plants.jpg);
+  background-position: center;
+  top: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}

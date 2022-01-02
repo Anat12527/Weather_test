@@ -1,0 +1,52 @@
+{
+    "weather": [
+        {
+            "city": "New-York",
+            "date": "24-12-2021",
+            "avgtemp_c": 4.5,
+            "avgtemp_f": 40.1,
+            "condition": "Cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png"
+        },
+        {
+            "city": "Madrid",
+            "date": "24-12-2021",
+            "avgtemp_c": 9.6,
+            "avgtemp_f": 49.3,
+            "condition": "Mist",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/143.png"
+        },
+        {
+            "city": "London",
+            "date": "24-12-2021",
+            "avgtemp_c": 8.4,
+            "avgtemp_f": 47.2,
+            "condition": "Moderate rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png"
+        },
+        {
+            "city": "Prague",
+            "date": "28-12-2021",
+            "avgtemp_c": -0.8,
+            "avgtemp_f": 30.6,
+            "condition": "Light sleet",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/317.png"
+        },
+        {
+            "city": "Munich",
+            "date": "27-12-2021",
+            "avgtemp_c": 6.0,
+            "avgtemp_f": 42.8,
+            "condition": "Overcast",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png"
+        },
+        {
+            "city": "Vienna",
+            "date": "30-12-2021",
+            "avgtemp_c": 9.0,
+            "avgtemp_f": 48.3,
+            "condition": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png"
+        }
+    ]
+}
